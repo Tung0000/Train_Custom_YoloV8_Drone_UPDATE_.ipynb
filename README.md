@@ -7,7 +7,9 @@
 
 #ไฟล์ที่สำคัญ มีดังนี้:
 
-ชื่อไฟล์	รายละเอียด
+ชื่อไฟล์รายละเอียด
+
+
 Train_Custom_YoloV8_Drone_update.ipynb หรือไฟล์ notebook	โค้ดหลัก — ตั้งค่าการฝึก, ทำ augmentation, ประเมินผล, inference
 best.pt	โมเดลที่ดีที่สุด (weights) หลังจากฝึกเสร็จ
 best_int8.tflite	โมเดลที่แปลงเป็น TFLite แบบ 8-bit (quantized)
